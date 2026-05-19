@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #4d3686;
+    --color-secondary: #715dbd;
+    --color-tertiary: #8971cb;
+
+    --font-main: "Bahnschrift", serif;
+}
